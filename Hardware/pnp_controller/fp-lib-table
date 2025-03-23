@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "PNP")(type "KiCad")(uri "C:/Users/hansg/Dropbox/Pick and Place/New Controller/PNP.pretty")(options "")(descr ""))
+)
